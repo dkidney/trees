@@ -30,7 +30,7 @@ Nnode(tetra)
 Ntip(tetra)
 Nedge(tetra)
 degree(tetra)
-ltt(tetra)
+# ltt(tetra)
 tetra %>% ggtree()
 plt = tetra %>%
 	# ggtree(aes(color=group)) +
